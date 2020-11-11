@@ -1,3 +1,3 @@
 # autohotkey
 
-some scripts I find useful
+some scripts for windows I find useful
